@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [FWSA Batch2](https://github.com/fwsa-batch2)
 
 
-# Repository guidelines (In Progress)  
+# Repository Name Pattern (In Progress)  
 Repository name will be created in the format mentioned below:  
 * [firstname.lastname]__[technology]_project  
 * [firstname.lastname]__[technology]_project2  
